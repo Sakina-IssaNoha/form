@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Pacifico&display=swap');
+
+ 
+ body{
+    background-image:linear-gradient(to right, #F3D184 ,#DDA2D0) ;
+
+}
+.container{
+    margin:10% 20%;
+    
+}
+
+.box1{
+width: 400px;
+height: 500px;
+background-color: #F3D184;
+margin-right: 1000px;
+position:fixed;
+border-radius: 5px;
+}
+
+.box2{
+width: 500px;
+height: 500px;
+background-color: #fff;
+margin-left: 400px;
+position:fixed;
+border-radius: 5px;
+padding-left: 50px;
+}
+
+h1{
+    margin-left: 5%;
+    color: #F5A000;
+    font-family: 'Pacifico', cursive;
+}
+
+h2{
+    margin-left: 5%;
+    color: #F5A000;
+}
+
+img{
+margin: 10%;
+}
+
+h6{
+    margin-left: 10%;
+}
+
+   .box2 h6{
+       margin-left: 60%;
+   }
+ h3{
+     margin-left: 30%;
+    
+ }
+
+button{
+    margin-left: 30%;
+    background-color:#448BF0;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 5px;
+    height: 10px;
+    color: #fff;
+    
+}
+
+.fom{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    
+}
+
+
+.fom form-two[type="name"]{
+    width: 165px;
+}
+.three{
+    width: 200px;
+    margin-left:0.5%;
+
+}
+#email{
+    width: 210%;
+}
+.four{
+    width: 200px;
+    margin-left:0.5% ;
+}
+#password{
+    width:200% ;
+    
+}
+
+.input{
+    padding: 2px;
+    margin: 2px;
+}
+
+.create-account{
+    background-color:#EB518A;
+    border-radius: 5px;
+    color:#fff;
+}
+
+.alpha{
+justify-content: center;
+}
+
+
